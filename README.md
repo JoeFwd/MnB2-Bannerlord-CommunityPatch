@@ -49,6 +49,7 @@ We also use ReSharper C++ with Visual Studio.
     * Trampler
     * Nomadic Traditions
     * Horse Grooming
+    * Vigorous
   * Bow
     * Mounted Archer
     * Large Quiver
